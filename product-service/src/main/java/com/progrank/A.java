@@ -2,7 +2,7 @@ package com.progrank;
 
 public class A {
 	public A() {
-		System.out.println("A const");
+		System.out.println("A cffonst");
 		
     }
 
